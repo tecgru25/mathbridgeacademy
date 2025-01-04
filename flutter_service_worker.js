@@ -38,7 +38,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "3b3dc530a785793edc12a6c18e2d7a60
 "assets/assets/images/wp11070506-imac-4k-wallpapers.jpg": "9af74d304e6bd97f1f46819d9cc84e12",
 "assets/assets/images/young-african-american-woman-siting-at-cafe-workin-2023-11-27-04-55-45-utc.jpg": "b57781787f80ddffa571993726dc5385",
 "assets/FontManifest.json": "49b1b9693a9d3093507e3c95aed2e5de",
-"assets/fonts/MaterialIcons-Regular.otf": "1c24c549a979225bea818ceb8cfe7bf6",
+"assets/fonts/MaterialIcons-Regular.otf": "6accb44a921295ec561cc99fba9cef85",
 "assets/NOTICES": "38a3521901504869c301e52dbac25bc1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "3759b2f7a51e83c64a58cfe07b96a8ee",
@@ -55,7 +55,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "3b3dc530a785793edc12a6c18e2d7a60
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "0be7b41212c51da41281c5c685c3d1f3",
+"flutter_bootstrap.js": "bbcee1e189e9b2d3c0372f9b64fecab7",
 "icons/favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -63,7 +63,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "3b3dc530a785793edc12a6c18e2d7a60
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "729c2dbce02449664debbe42c550f537",
 "/": "729c2dbce02449664debbe42c550f537",
-"main.dart.js": "e4a227d8d6e143d7c4ce71559f1de975",
+"main.dart.js": "cb648428a7b7896ad5a7ade82ceaad8c",
 "manifest.json": "976841349ba856d0e3b27a2b31255481",
 "version.json": "8057c5a53425874405ca0f278c6d4b7c"};
 // The application shell files that are downloaded before a service worker can
