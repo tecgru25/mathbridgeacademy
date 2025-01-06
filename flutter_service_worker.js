@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "9b3cc048feb2eaaf3b56dca312fd8f49",
-"assets/AssetManifest.bin.json": "a5ce8771a0a3cc38d11e480903900801",
-"assets/AssetManifest.json": "6307d66301b913e60ea96115c398ea3e",
+const RESOURCES = {"assets/AssetManifest.bin": "bae615f48c4884f0cb72f4a5c3cbda3f",
+"assets/AssetManifest.bin.json": "7bcd0668a8cff68e299d4be1cc71d09a",
+"assets/AssetManifest.json": "b593f471de59415536a833fa091c60bb",
 "assets/assets/fonts/SamsungOne-400.ttf": "4889669d08e2addfe6b66ca4a0297074",
 "assets/assets/fonts/SamsungOne-700.ttf": "9880c5ab2b7844e855f285198c0bab05",
 "assets/assets/fonts/SamsungSharpSans-Bold.ttf": "31af6b22017b69635b55ecd00339f923",
@@ -14,7 +14,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9b3cc048feb2eaaf3b56dca312fd8f49
 "assets/assets/images/ambitious-teenager-with-dark-skin-and-boycut-make-2023-11-27-05-22-49-utc.jpg": "beb0b3682953770b4e4ecdc446e52e1b",
 "assets/assets/images/back-to-school-conceptual-background-2023-11-27-05-37-00-utc.jpg": "c443751efda5372f6711478b7f0d2b83",
 "assets/assets/images/close-up-of-black-hand-using-colorful-pencils-on-t-2023-11-27-05-20-48-utc.JPG": "bb40cf932f283e41428d8cc08337f69e",
-"assets/assets/images/female-remote-student-typing-on-laptop-and-browsin-2023-11-27-05-09-24-utc.jpg": "37faf4b831de16e54dfe47fc9d3219f5",
+"assets/assets/images/desktop-organizer-with-school-stationary-and-offic-2023-11-27-04-51-43-utc.jpg": "4047da3d0bc34c77e20c47b4b27476bb",
 "assets/assets/images/gathered-for-the-good-of-their-education-2023-11-27-05-09-57-utc.jpg": "f24825076b8337ea80ba66ad3eecbb51",
 "assets/assets/images/graphic-designer-working-from-home-using-laptop-an-2024-11-22-18-56-20-utc.jpg": "eb6a08a6aa9b885e10f27b1a3b0af6e7",
 "assets/assets/images/home_cover.png": "e027f228ec9b4e030d7ed5c6685402d9",
@@ -45,7 +45,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9b3cc048feb2eaaf3b56dca312fd8f49
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "bdeb0c3441c2c234d68a9ccae9964b21",
+"flutter_bootstrap.js": "23bb354a7a6874e28436ce26bcba3438",
 "icons/favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -53,7 +53,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9b3cc048feb2eaaf3b56dca312fd8f49
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "729c2dbce02449664debbe42c550f537",
 "/": "729c2dbce02449664debbe42c550f537",
-"main.dart.js": "ca14b7e1ec57756397d29beffd526591",
+"main.dart.js": "8710c7c0f6c9ae842f9eb7e5ca146d42",
 "manifest.json": "976841349ba856d0e3b27a2b31255481",
 "version.json": "92b99fec9e1da8bbc97b4b3605bbc8c4"};
 // The application shell files that are downloaded before a service worker can
