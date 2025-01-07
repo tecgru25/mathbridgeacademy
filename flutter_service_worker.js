@@ -28,7 +28,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "bae615f48c4884f0cb72f4a5c3cbda3f
 "assets/assets/images/three-multiethnic-women-at-desk-having-lesson-2024-06-17-21-06-48-utc.jpg": "38edc08e44f819a9162dad70b9b32a6d",
 "assets/assets/images/young-african-american-woman-siting-at-cafe-workin-2023-11-27-04-55-45-utc.jpg": "b57781787f80ddffa571993726dc5385",
 "assets/FontManifest.json": "49b1b9693a9d3093507e3c95aed2e5de",
-"assets/fonts/MaterialIcons-Regular.otf": "48a66d088d7159276a0a2930df16efad",
+"assets/fonts/MaterialIcons-Regular.otf": "7143d92663fa6cfa93accabb6f91ae5d",
 "assets/NOTICES": "38a3521901504869c301e52dbac25bc1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "3759b2f7a51e83c64a58cfe07b96a8ee",
@@ -45,7 +45,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "bae615f48c4884f0cb72f4a5c3cbda3f
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "70fda7c4d3e78b62fe8fad60aea4fa7f",
+"flutter_bootstrap.js": "5798ebca23e63d43d7c8c1f242c78e71",
 "icons/favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -53,7 +53,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "bae615f48c4884f0cb72f4a5c3cbda3f
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "729c2dbce02449664debbe42c550f537",
 "/": "729c2dbce02449664debbe42c550f537",
-"main.dart.js": "63a77338af952d7f30a59346186f790c",
+"main.dart.js": "8f94e313d42cd3c49cb2c9b9ad7d7f1c",
 "manifest.json": "976841349ba856d0e3b27a2b31255481",
 "version.json": "92b99fec9e1da8bbc97b4b3605bbc8c4"};
 // The application shell files that are downloaded before a service worker can
