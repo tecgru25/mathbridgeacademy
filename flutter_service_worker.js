@@ -24,7 +24,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d2f741f6e169be67b7fb41732d6e343e
 "assets/assets/images/three-multiethnic-women-at-desk-having-lesson-2024-06-17-21-06-48-utc.jpg": "07fa96436c09c108a7d04781d4fe9027",
 "assets/assets/images/young-african-american-woman-siting-at-cafe-workin-2023-11-27-04-55-45-utc.jpg": "4ae4068fdec971cc0a89fececae89c9a",
 "assets/FontManifest.json": "49b1b9693a9d3093507e3c95aed2e5de",
-"assets/fonts/MaterialIcons-Regular.otf": "a196426795779c4921171925f1a30d93",
+"assets/fonts/MaterialIcons-Regular.otf": "7143d92663fa6cfa93accabb6f91ae5d",
 "assets/NOTICES": "38a3521901504869c301e52dbac25bc1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "3759b2f7a51e83c64a58cfe07b96a8ee",
@@ -41,7 +41,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d2f741f6e169be67b7fb41732d6e343e
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "db73a45856eb47889ef17fe0d47d2402",
+"flutter_bootstrap.js": "d6ef63d027f4c14c4c538e434821c80f",
 "icons/favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -49,7 +49,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d2f741f6e169be67b7fb41732d6e343e
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "729c2dbce02449664debbe42c550f537",
 "/": "729c2dbce02449664debbe42c550f537",
-"main.dart.js": "bfb7698fa60607802e5174c86413386e",
+"main.dart.js": "415829d0e8c940c87712730cf5eb526c",
 "manifest.json": "976841349ba856d0e3b27a2b31255481",
 "version.json": "92b99fec9e1da8bbc97b4b3605bbc8c4"};
 // The application shell files that are downloaded before a service worker can
